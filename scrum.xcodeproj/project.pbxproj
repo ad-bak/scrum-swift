@@ -17,6 +17,8 @@
 		027C14D02D6114FC001EEA55 /* TrailingIconLabelStyle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 027C14CF2D6114F5001EEA55 /* TrailingIconLabelStyle.swift */; };
 		027C14D22D611979001EEA55 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 027C14D12D611975001EEA55 /* .gitignore */; };
 		027C14D42D611A38001EEA55 /* ScrumView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 027C14D32D611A33001EEA55 /* ScrumView.swift */; };
+		027C14D62D6120FC001EEA55 /* DetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 027C14D52D6120F9001EEA55 /* DetailView.swift */; };
+		027C14D82D61597B001EEA55 /* DetailEditView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 027C14D72D615977001EEA55 /* DetailEditView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -31,6 +33,8 @@
 		027C14CF2D6114F5001EEA55 /* TrailingIconLabelStyle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TrailingIconLabelStyle.swift; sourceTree = "<group>"; };
 		027C14D12D611975001EEA55 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 		027C14D32D611A33001EEA55 /* ScrumView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrumView.swift; sourceTree = "<group>"; };
+		027C14D52D6120F9001EEA55 /* DetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailView.swift; sourceTree = "<group>"; };
+		027C14D72D615977001EEA55 /* DetailEditView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailEditView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -76,7 +80,9 @@
 				027C14BA2D611458001EEA55 /* Assets.xcassets */,
 				027C14C92D6114BD001EEA55 /* ScrumdingerApp.swift */,
 				027C14D32D611A33001EEA55 /* ScrumView.swift */,
+				027C14D72D615977001EEA55 /* DetailEditView.swift */,
 				027C14CB2D6114CB001EEA55 /* MeetingView.swift */,
+				027C14D52D6120F9001EEA55 /* DetailView.swift */,
 				027C14CD2D6114D3001EEA55 /* CardView.swift */,
 				027C14D12D611975001EEA55 /* .gitignore */,
 				027C14CF2D6114F5001EEA55 /* TrailingIconLabelStyle.swift */,
@@ -168,6 +174,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				027C14CC2D6114CB001EEA55 /* MeetingView.swift in Sources */,
+				027C14D62D6120FC001EEA55 /* DetailView.swift in Sources */,
+				027C14D82D61597B001EEA55 /* DetailEditView.swift in Sources */,
 				027C14D42D611A38001EEA55 /* ScrumView.swift in Sources */,
 				027C14D02D6114FC001EEA55 /* TrailingIconLabelStyle.swift in Sources */,
 				027C14C62D611470001EEA55 /* DailyScrum.swift in Sources */,
